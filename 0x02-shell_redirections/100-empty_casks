@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -empty -exec echo {} \; ; find . -type d -empty -exec echo {} \;
